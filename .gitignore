@@ -1,1 +1,13 @@
 # User default
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+*.[Bb]in
