@@ -1,6 +1,7 @@
 #!/bin/bash
-source .../lib/colors.lib  #libreria de colores
-source .../lib/fun.lib #funtiones
+
+#lib
+  source /usr/local/lib/.Jin/autor.lib
 
 trap Adios INT
 

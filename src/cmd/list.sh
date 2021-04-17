@@ -1,9 +1,9 @@
 #!/bin/bash
-
 declare -A ban #lista de archivos
 
 #lib
   source src/lib/colors.lib  #libreria de colores
+  source /usr/local/lib/.Jin/autor.lib
 
 #Listado y seleccion del banner
 banner() {
